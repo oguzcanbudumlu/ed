@@ -10,9 +10,16 @@
 
 - User -> Network -> CPU -> Memory -> Disk
 
-Test
-Others
 
+- 1Gps(125MB/s), 1KB records -> 125000 requests per second
+- 1Gps(125MB/s), 5KB records -> 25000 requests per second
+- Business Layer vs Data Layer
+- TCP/IP is async, needs upper-bound.
+- Process Pause. E.g. Garbage collection
+- Unsynchronized Clocks. Normally quartz crystals but NTP
+- Google TrueTime
+- Clock skew
+  
 
 * Ch2
 
@@ -21,5 +28,16 @@ Others
 
 * Links
 
-- https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf
-- 
+1. https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf
+2. https://www.patternlanguage.com/
+3. https://wiki.c2.com/?RuleOfThree
+4. https://kafka.apache.org
+5. https://cassandra.apache.org
+6. https://www.mongodb.com
+7. https://pulsar.apache.org
+8.  https://etcd.io
+9.  https://zookeeper.apache.org
+10.  https://www.cockroachlabs.com
+11.  https://www.yugabyte.com
+12.  https://akka.io
+13.  http://www.jgroups.org
