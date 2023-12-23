@@ -1,5 +1,8 @@
 
-* Ch1
+
+* Part I
+
+** Ch1
 
 
 - Four key resources
@@ -21,10 +24,22 @@
 - Clock skew
   
 
-* Ch2
+** Ch2
+- WAL
+- Replication
+- Leaders and Followers
+- Heartbeat
+- Majority Quorum
+- Generation Clock
+- Uncommited vs Committed
+- Replicated Log
+- High-Water Mark
+- 
+  
+* Part II
 
-* Ch3
-
+- CAP[15] 
+- State Machine Replication[16]
 
 * Links
 
@@ -35,9 +50,13 @@
 5. https://cassandra.apache.org
 6. https://www.mongodb.com
 7. https://pulsar.apache.org
-8.  https://etcd.io
-9.  https://zookeeper.apache.org
-10.  https://www.cockroachlabs.com
-11.  https://www.yugabyte.com
-12.  https://akka.io
-13.  http://www.jgroups.org
+8. https://etcd.io
+9. https://zookeeper.apache.org
+10. https://www.cockroachlabs.com
+11. https://www.yugabyte.com
+12. https://akka.io
+13. http://www.jgroups.org
+14. https://web.stanford.edu/~ouster/cgi-bin/papers/OngaroPhD.pdf
+15. https://dl.acm.org/doi/10.5555/822076.822436
+16. https://dl.acm.org/doi/10.1145/98163.98167
+    
