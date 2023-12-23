@@ -2,8 +2,13 @@
 * Ch1
 
 
+- Four key resources
+  - Network Bandwidth
+  - Disk
+  - CPU
+  - Memory
 
-
+- User -> Network -> CPU -> Memory -> Disk
 
 Test
 Others
@@ -12,3 +17,9 @@ Others
 * Ch2
 
 * Ch3
+
+
+* Links
+
+- https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf
+- 
