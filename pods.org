@@ -34,7 +34,7 @@
 - Uncommited vs Committed
 - Replicated Log
 - High-Water Mark
-- 
+- Singular Update Queue 
   
 * Part II
 
