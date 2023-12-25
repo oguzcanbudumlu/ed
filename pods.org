@@ -35,12 +35,19 @@
 - Replicated Log
 - High-Water Mark
 - Singular Update Queue 
+<<<<<<< HEAD
+=======
+-pul
+-  
+>>>>>>> 0d3e1d9 (Add item)
   
 * Part II
 
 - CAP[15] 
 - State Machine Replication[16]
-
+-
+-  
+  
 * Links
 
 1. https://www.cs.cornell.edu/projects/ladis2009/talks/dean-keynote-ladis2009.pdf
